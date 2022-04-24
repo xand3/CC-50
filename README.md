@@ -22,5 +22,9 @@ Para jogar o jogo criado por mim <a href="https://scratch.mit.edu/projects/67638
 
 No módulo 1 é apresentada a linguagem C, e é proposto a realização dos seguintes exercícios:
 
+### Exercício 1:
+Recriar uma pirâmide do jogo Super Mario, como essa:
 
+<img src="https://edools-3-production.s3.amazonaws.com/org-6988%2Fschool-7227%2F90ab2f9de17d9ef81f5850efe2343aeb%2Fpyramid-mario.png">
+porém usando C, e hashes como essa pirâmide: 
 
