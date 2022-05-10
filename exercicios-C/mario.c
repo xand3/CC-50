@@ -3,18 +3,18 @@
 
 int main(void)
 {
-    int h;
+    int height;
     do
     {
-        h = get_int("height: ");
+        height = get_int("Please especifies height: ");
     }
-    while (h < 1 || h > 8);
+    while (height < 1 || height > 8);
 
-    for (int i = 0; i < h; i++)
+    for (int i = 0; i < height; i++)
     {
-        for (int j = 0; j < h; j++)
+        for (int j = 0; j < height; j++)
         {
-            if (i + j < h - 1)
+            if (i + j < height - 1)
             {
                 printf(" ");
             }
